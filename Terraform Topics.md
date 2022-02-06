@@ -72,3 +72,7 @@ This state is stored by default in a local file named "terraform.tfstate", but i
 
 
 / <img align="left" width="1000" height="800" src="../../../images/a98e018212947733ebc2020418e36ee9316535f243f0c86339917e1f23e137f0.png">
+
+
+
+
